@@ -1,4 +1,4 @@
-# EmptyFolders
+# EmptyFolders-Bare
 Small little script I made to save myself a headache. Pulls all files from subdirectories and outputs into the directory the script is in.
 
 ## HOW TO USE:
